@@ -1,0 +1,63 @@
+/*Classes*/
+.jumbotron{
+	background-image: url(../imagens/capa1.jpg);
+	height: 500px;
+
+	/*escala da cor do jumbotron*/
+	/*filter: grayscale(30%);*/
+}
+/*atributos*/
+body{
+	background-color: #DDD;
+}
+
+/*ids*/
+#Logo{
+	margin-left: 10px;
+	margin-top: 10px;
+}
+#Logo:hover{
+	opacity: 1;
+	transform: scale(1.2);
+}
+#main-menu{
+	margin: 0;
+	padding: 0;
+	margin-right: 10px;
+	width: 100%;
+}
+#apresenta{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+#navbar{
+    height: 50px;
+    margin-right: 50px;
+	
+}
+#navbar a{
+	color: #000;
+	margin-top: 10px;
+
+}
+#navbar a:hover{
+	color: blue;
+	transform: scale(1.3);
+	background: transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
